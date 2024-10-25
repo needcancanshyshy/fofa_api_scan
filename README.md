@@ -8,7 +8,8 @@
 
 4、 目标资产地区 (例:CN)
 
-![image](https://github.com/user-attachments/assets/c7dd48dc-3a32-4cdc-a8f2-ba46bb08424c)
+![image](https://github.com/user-attachments/assets/8d6fe5d5-3990-46c5-990a-b423ef4e143f)
+
 
 
 
